@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>120.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1300,650}</string>
+                <key>spriteSourceSize</key>
+                <string>{1300,650}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{1300,650}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>121.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1300,650}</string>
+                <key>spriteSourceSize</key>
+                <string>{1300,650}</string>
+                <key>textureRect</key>
+                <string>{{1300,0},{1300,650}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>Second Page Turn-1.plist.png</string>
+            <key>size</key>
+            <string>{2600,650}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:64e719ce114024ce7f68fe0200001d97:84d8388d4d918faf92e4759ea1ef165b:b1a2a68015bfca441420e3f835923f2d$</string>
+            <key>textureFileName</key>
+            <string>Second Page Turn-1.plist.png</string>
+        </dict>
+    </dict>
+</plist>
